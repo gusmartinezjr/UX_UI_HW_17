@@ -1,17 +1,26 @@
 .inline-block {
     display: inline-block;
     vertical-align: top;
+    background-color: grey;
 }
 .logo {
     width: 23%;
     padding: 1%
 }
 .nav.inline-block {
-    width: 73;
+    width: 73%;
     padding: 1%;
 }
 ul {
     width: 50%;
+    margin-left: auto;
+}
+p {
+    width: 75%;
+    margin-left: auto;
+}
+h1 {
+    width: 75%;
     margin-left: auto;
 }
 .logo {
@@ -21,10 +30,14 @@ ul {
     height: 600px;
     padding: 25px;
     text-align: center;
+    background-color: grey;
 }
 .content{
     width: 500px;
     margin: 0 auto;
+}
+header {
+    background-color: #373738;
 }
 footer {
     background-color: #373738;
